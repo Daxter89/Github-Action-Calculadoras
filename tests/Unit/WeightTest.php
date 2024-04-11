@@ -3,9 +3,8 @@
 namespace Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
-use App\Models\idealWeight;
+use App\Models\IdealWeight;
 
-use App\Http\Controllers\IdealWeightController;
 class WeightTest extends TestCase
 {
     /**
